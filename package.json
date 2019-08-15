@@ -1,0 +1,23 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "node express handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "hi",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simmonsm13/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Michael Simmons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simmonsm13/burger/issues"
+  },
+  "homepage": "https://github.com/simmonsm13/burger#readme"
+}
